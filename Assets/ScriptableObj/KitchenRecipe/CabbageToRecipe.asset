@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffbff7da90b377743b78a8a4a2d0f3bc, type: 3}
+  m_Name: CabbageToRecipe
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 8937879eae6f0f24796bd7037c973e5d, type: 2}
+  output: {fileID: 11400000, guid: 11b311843140e214fb688cfb94ef52ce, type: 2}
+  cuttingProcess: 5
